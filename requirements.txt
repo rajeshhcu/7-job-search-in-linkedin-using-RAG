@@ -4,3 +4,4 @@ langchain-pinecone
 langchain-community
 langchain-classic
 langchain-text-splitters
+pydantic
